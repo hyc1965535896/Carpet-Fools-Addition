@@ -1,5 +1,7 @@
 # Carpet Fools Addition
 
+![Carpet Fools Addition](logo.png)
+
 **Carpet Fools Addition**（mod id：`funnyport`）——把 Minecraft **历代愚人节快照**的内容移植到**常规版本**的 Fabric Carpet 扩展。
 
 **一次构建，全版本产出**：基于 Stonecutter 的多版本工程，一个源码树覆盖 **MC 1.16.5 → 26.3 共 21 个版本**（Fabric Carpet 官方发布过扩展 API 的全部版本线，含新日历版本线 26.x）。
