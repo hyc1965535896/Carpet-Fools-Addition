@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "minecraft:water", "height": 40 }
+      ],
+      "biome": "minecraft:deep_frozen_ocean"
+    }
+  }
+}

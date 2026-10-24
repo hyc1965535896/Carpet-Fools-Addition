@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:checkerboard",
+      "biomes": [
+        "minecraft:flower_forest",
+        "minecraft:meadow",
+        "minecraft:cherry_grove",
+        "minecraft:sunflower_plains"
+      ],
+      "scale": 2
+    }
+  }
+}

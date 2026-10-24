@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "funnyport",
+  "version": "${version}",
+  "name": "Carpet Fools Addition",
+  "description": "Carpet Fools Addition - Carpet extension porting Minecraft April Fools snapshot content to regular versions. 把历代愚人节快照内容移植到常规版本的 Carpet 扩展。",
+  "authors": [
+    "FunnyPort"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.funnyport.Funnyport"
+    ]
+  },
+  "mixins": [
+    "funnyport.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "java": ">=8",
+    "fabric-api": "*",
+    "carpet": "*"
+    ,"minecraft": "~${mc}"
+  }
+}
