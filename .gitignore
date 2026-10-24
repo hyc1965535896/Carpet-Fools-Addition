@@ -16,3 +16,4 @@ runs/
 bin/
 
 *.log
+release-jars/
